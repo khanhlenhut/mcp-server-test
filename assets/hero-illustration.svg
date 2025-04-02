@@ -1,0 +1,44 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main monitor -->
+  <path d="M310 210H490C495.523 210 500 214.477 500 220V320C500 325.523 495.523 330 490 330H310C304.477 330 300 325.523 300 320V220C300 214.477 304.477 210 310 210Z" fill="#455A64"/>
+  <path d="M320 230H480C482.761 230 485 232.239 485 235V305C485 307.761 482.761 310 480 310H320C317.239 310 315 307.761 315 305V235C315 232.239 317.239 230 320 230Z" fill="#F5F7FA"/>
+  <path d="M380 330H430V350H380V330Z" fill="#37474F"/>
+  <path d="M350 350H460C465.523 350 470 354.477 470 360V360C470 365.523 465.523 370 460 370H350C344.477 370 340 365.523 340 360V360C340 354.477 344.477 350 350 350Z" fill="#263238"/>
+  
+  <!-- Windows on screen -->
+  <rect x="330" y="245" width="80" height="55" rx="4" fill="#E8F5E9"/>
+  <rect x="335" y="250" width="70" height="5" rx="2" fill="#4CAF4F"/>
+  <rect x="335" y="260" width="70" height="3" rx="1" fill="#C8E6C9"/>
+  <rect x="335" y="268" width="70" height="3" rx="1" fill="#C8E6C9"/>
+  <rect x="335" y="276" width="70" height="3" rx="1" fill="#C8E6C9"/>
+  
+  <rect x="420" y="245" width="50" height="45" rx="4" fill="#455A64"/>
+  <rect x="425" y="250" width="40" height="5" rx="2" fill="#4CAF4F"/>
+  <rect x="425" y="260" width="40" height="20" rx="2" fill="#E8F5E9"/>
+  
+  <!-- Character -->
+  <ellipse cx="200" cy="360" rx="100" ry="10" opacity="0.1" fill="#103E13"/>
+  
+  <!-- Character body -->
+  <path d="M160 340C160 340 150 300 150 270C150 240 170 230 180 230C190 230 220 240 220 270C220 300 210 340 210 340H160Z" fill="#E58A7B"/>
+  <path d="M180 235C180 235 150 245 150 270C150 295 160 340 160 340H170C170 340 175 295 175 270C175 245 180 235 180 235Z" fill="#CF6F64"/>
+  
+  <!-- Head -->
+  <circle cx="180" cy="200" r="30" fill="#E58A7B"/>
+  <path d="M160 195C160 195 165 185 180 185C195 185 200 195 200 195C200 195 195 210 180 210C165 210 160 195 160 195Z" fill="#263238"/>
+  <path d="M170 195C172.761 195 175 192.761 175 190C175 187.239 172.761 185 170 185C167.239 185 165 187.239 165 190C165 192.761 167.239 195 170 195Z" fill="white"/>
+  <path d="M190 195C192.761 195 195 192.761 195 190C195 187.239 192.761 185 190 185C187.239 185 185 187.239 185 190C185 192.761 187.239 195 190 195Z" fill="white"/>
+  
+  <!-- Speech bubble -->
+  <path d="M230 170C230 156.193 241.193 145 255 145H320C333.807 145 345 156.193 345 170V180C345 193.807 333.807 205 320 205H255C241.193 205 230 193.807 230 180V170Z" fill="#4CAF4F"/>
+  <path d="M230 172L215 195L230 185V172Z" fill="#4CAF4F"/>
+  <text x="287.5" y="180" text-anchor="middle" font-family="Inter" font-size="16" fill="white">Hello!</text>
+  
+  <!-- Flowchart elements -->
+  <rect x="420" y="270" width="30" height="15" rx="2" fill="#C8E6C9"/>
+  <rect x="385" y="270" width="30" height="15" rx="2" fill="#4CAF4F"/>
+  <path d="M415 277.5H420" stroke="#263238" stroke-width="1"/>
+  <path d="M385 277.5H380" stroke="#263238" stroke-width="1"/>
+  <path d="M380 277.5V290" stroke="#263238" stroke-width="1"/>
+  <path d="M380 290H400" stroke="#263238" stroke-width="1"/>
+</svg>
